@@ -1,0 +1,10 @@
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\SayiFonksiyonlar1\SayiFonksiyonlar1\bin\Debug\SayiFonksiyonlar1.exe.config
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\SayiFonksiyonlar1\SayiFonksiyonlar1\bin\Debug\SayiFonksiyonlar1.exe
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\SayiFonksiyonlar1\SayiFonksiyonlar1\bin\Debug\SayiFonksiyonlar1.pdb
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\SayiFonksiyonlar1\SayiFonksiyonlar1\bin\Debug\SayiFonksiyonlar1.xml
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\SayiFonksiyonlar1\SayiFonksiyonlar1\obj\Debug\SayiFonksiyonlar1.Form1.resources
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\SayiFonksiyonlar1\SayiFonksiyonlar1\obj\Debug\SayiFonksiyonlar1.Resources.resources
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\SayiFonksiyonlar1\SayiFonksiyonlar1\obj\Debug\SayiFonksiyonlar1.vbproj.GenerateResource.Cache
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\SayiFonksiyonlar1\SayiFonksiyonlar1\obj\Debug\SayiFonksiyonlar1.exe
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\SayiFonksiyonlar1\SayiFonksiyonlar1\obj\Debug\SayiFonksiyonlar1.xml
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta11\SayiFonksiyonlar1\SayiFonksiyonlar1\obj\Debug\SayiFonksiyonlar1.pdb
